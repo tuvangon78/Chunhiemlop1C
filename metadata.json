@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Quản Lý Lớp 1C - Trường Tiểu Học Phường An Xuyên",
+  "description": "Hệ thống quản lý và theo dõi toàn diện tình hình học tập học sinh lớp 1C - GVCN Thầy Từ Văn Gọn, năm học 2026-2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
